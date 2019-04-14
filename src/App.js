@@ -29,7 +29,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
           I was changed on the feature branch
-        <p>
+        </p>
       </div>
     );
   }
